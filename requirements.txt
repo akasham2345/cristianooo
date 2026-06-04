@@ -1,0 +1,6 @@
+# Fishing Game Requirements
+# This game uses only Python standard library - no external dependencies needed!
+
+# Optional: For enhanced features in future versions:
+# pygame>=2.0.0  - For graphics and sound
+# sqlite3         - For persistent save files (built-in with Python)
